@@ -9,6 +9,7 @@ ReactDOM.render(<Greeting/>, document.getElementById("root"));
 // function Greeting(){
 //   return <h1>hello this is firstReactApp like helloworld</h1>
 // }
+
 // ReactDOM.render(<Greeting></Greeting>,document.getElementById('root'))
 // import React from 'react';
 // import ReactDOM from 'react-dom';
